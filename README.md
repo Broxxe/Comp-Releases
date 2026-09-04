@@ -6,7 +6,7 @@ A tiny desktop GUI for people coding with AI assistants who don't want to manage
 
 Select a project → see what changed → commit → pull → push.
 
-Linux, mas OS today. Windows next.
+Linux, mas OS, Windows.
 
 
 **[⬇ Télécharger la dernière version](../../releases/latest) · [⬇ Download the latest version](../../releases/latest)**
