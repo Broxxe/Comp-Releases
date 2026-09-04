@@ -1,9 +1,13 @@
 <img width="955" height="696" alt="Capture d’écran du 2026-09-04 21-23-16" src="https://github.com/user-attachments/assets/6498f73d-e8d5-423d-a537-330f9dccafbd" />
 # Comp' — Git Companion
 Git without the Git headache.
+
 A tiny desktop GUI for people coding with AI assistants who don't want to manage Git from a terminal.
 
 Select a project → see what changed → commit → pull → push.
+
+Linux, mas OS today. Windows next.
+
 
 **[⬇ Télécharger la dernière version](../../releases/latest) · [⬇ Download the latest version](../../releases/latest)**
 
