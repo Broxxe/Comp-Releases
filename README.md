@@ -1,3 +1,4 @@
+<img width="955" height="696" alt="Capture d’écran du 2026-09-04 21-23-16" src="https://github.com/user-attachments/assets/6498f73d-e8d5-423d-a537-330f9dccafbd" />
 # Comp' — Git Companion
 
 **[⬇ Télécharger la dernière version](../../releases/latest) · [⬇ Download the latest version](../../releases/latest)**
